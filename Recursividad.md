@@ -29,6 +29,6 @@ fun factorial(n:int) : int {
 
 fun main ()
 {
-  println(factorial(5))
+  println(factorial (5) )
 }
 ```
